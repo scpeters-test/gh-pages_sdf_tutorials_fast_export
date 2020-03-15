@@ -1,0 +1,8 @@
+{
+    "osrf/sdf_tutorials": {
+        "project_file": "data/repositories/osrf/sdf_tutorials.json",
+        "project_path": "data/repositories/osrf/sdf_tutorials/",
+        "is_fork": false,
+        "github_repo": "https://github.com/scpeters-test/sdf_tutorials"
+    }
+}
